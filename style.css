@@ -5,8 +5,20 @@
   margin-right: auto;
 }
 
-.titles {
+.card {
+  width: 900px;
+  background: #fff;
+  margin: auto;
+}
+
+.title {
   font-size: 30px;
   text-align: center;
   color: midnightblue;
+}
+
+.container {
+  background: rgb(0, 153, 255);
+  padding: 20px;
+  text-align: center;
 }
